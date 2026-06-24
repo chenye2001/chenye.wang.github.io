@@ -68,6 +68,7 @@ I am a final-year master’s student at Beijing Normal University, advised by [P
 <span class='anchor' id='honors'></span>
 
 # 🏅 Honors & Awards
+- **Outstanding Graduate (Beijing)**, May 2026
 - **Xiaomi Scholarship**, Dec 2025
 - **Huawei Scholarship**, May 2025
 - **Outstanding Graduate**, Shandong University, May 2023
